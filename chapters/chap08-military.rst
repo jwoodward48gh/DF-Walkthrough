@@ -5,7 +5,7 @@ Soldiers and your army
 ######################
 
 While you're exploring and digging around, how about we
-set up a military? You're going to need one, goblins are pesky bastards
+set up a military? You're going to need one; goblins are pesky bastards
 and likely to bother you more and more (if they haven't already).
 Soldiers can be a bit fiddly to manipulate, but once you get the hang
 of it you'll find it second nature.
@@ -16,20 +16,18 @@ Drafting some dwarves
 The first thing you will need to do is draft some
 dwarves into your military. There are a few different strategies for
 this. First up, you can pick complete newbies and let them work up
-their skills and strength through sparing. Another strategy is to have
-some peasants work on screw pumps to quickly build up their strength
-and toughness before drafting them. Others like to use miners (which
+their skills and strength through sparing. Another strategy is to use miners (which
 train up quickly and are thus easy to replace) as they usually are
 quite strong and tough already.
 
 As a further consideration, some don't like to recruit women as
-soldiers. When they give birth it's not uncommon to see them running
+soldiers. If they give birth, it's not uncommon to see them running
 into battle carrying a baby. This is both somewhat alarming and
-somewhat risky as you're going to have potentially dead babies on your
-hands due to combat, something that might cause a lot of emo among your
+somewhat risky, as you're going to have potentially dead babies on your
+hands due to combat - and that might cause a lot of stress amongst your
 dwarves.
 
-For this tutorial we're not going to worry about detail to much and
+For this tutorial we're not going to worry about detail too much and
 we're just going to grab 6 peasants – which is 10% of my current
 fortress population. Something similar will work for you for now. So
 here's what we'll do:
@@ -38,10 +36,10 @@ here's what we'll do:
 
 You'll note this screen is not unlike the :kbd:`u`, :guilabel:`units` screen.
 The difference is that there are a few different commands at the bottom of
-the panel. Primarily, this screen lets you organise your squads and it
-lets you set squad weapons. We're going to aim for two squads of three
-dwarves. Smaller squads helps your response time to enemy threat and
-gives you a bit more control. Lets get on with it:
+the panel. Primarily, this screen lets you organise your squads and set
+squad weapons. We're going to aim for two squads of three dwarves. Smaller
+squads helps your response time to enemy threat and gives you a bit more
+control. Lets get on with it:
 
 * Hit :kbd:`c` to create a squad, and using metal armour.
   (You *did* make the iron armour in chapter 6, right?)
@@ -63,20 +61,20 @@ same squad name, :guilabel:`The Razonrs of Handling` and
 But they're not doing anything yet, they're assigned to
 squads but aren't active doing soldierly stuff, so:
 
-* Scroll to the first squad leader, hit :kbd:`a` for activate.
+* Scroll to the first squad leader and hit :kbd:`a` for activate.
 * Scroll to the second squad leaders and :kbd:`a` activate him as well.
-* Scroll to the top of your military list, your squads are now up there
+* Scroll to the top of your military list: your squads are now up there
   with their names in grey.
 * On the first squad leader, hit :kbd:`v` for view squad.
-* If the squad is :guilabel:`on duty` hit :kbd:`t`  to stand them down.
+* If the squad is :guilabel:`on duty`, hit :kbd:`t`  to stand them down.
 * Hit :kbd:`f` for :guilabel:`Food carried` and they'll go get backpacks
   and put a stock of food in them for long duties.
-* Leave other settings and repeat for squad two.
+* Leave the other settings alone and repeat for squad two.
 
 Our dwarves are now soldiers and are going to go do soldierly things.
 What's that you ask? Well, drink, eat and hang around the barracks
-sparing mostly. But shouldn't we give them some weapons and armor?
-Maybe, is the answer, lets show you how:
+sparring mostly. But shouldn't we give them some weapons and armor?
+Let's do that:
 
 * With the military screen up, hit :kbd:`w` for weapons.
 * You now have a field you can move around using the arrow keys and
@@ -86,9 +84,8 @@ Maybe, is the answer, lets show you how:
   Then go to the next column and hit :kbd:`Enter` until you see
   :guilabel:`Shd` for shield.
 * If you look further down your weapons list you may note how
-  woodcutters are armed with an axe. And note that any you've told to be
-  woodcutters who don't have an axe won't cut wood… although they might
-  try and arm themselves due to being tasked. Anyway…
+  woodcutters are armed with an axe. Note that woodcutters without an
+  axe won't cut wood.
 * Space back out.
 
 Your soldiers will now go and get a bunch of leather armor and a shield
@@ -98,32 +95,27 @@ to spar unarmed? A few reasons:
 
 #. Sparring unarmed trains the wrestling skill, and
    builds the key stats (like all training) but also trains quickly.
-   Hammer weapon skill is the skill used by crossbow dwarves when
+   The Hammerdwarf skill is used by crossbow dwarves when they run
    out of bolts. Yes, they bash the enemy to death with their crossbows.
    We can train hammering latter.
 #. Wrestling helps when an enemy disarms your dwarves as they have to
    fight unarmed then, and yes, a few enemies can disarm your lads.
-#. Finally, picture newby dwarves with no skill training with razor
-   sharp steel battleaxes. Yes, picture a few graves. Wrestling gets them
-   tough enough to spar with decent weapons without a lot of weapon access
-   micromanagement in the stocks screen (ie. forcing them to pick up
-   wooden weapons and later on dropping them in favour of proper weapons).
 
 Using the :kbd:`m` military :kbd:`a` alerts system, start training!
 
 .. image:: images/08-training.png
    :align: center
 
-Specifically:  we want them training in small groups, in every month.
-This is the fastest way to build martial skill, since they don't all stop
-if one lazy midget wants a drink.
+Specifically:  we want them training in small groups, every month.
+This is the fastest way to build martial skills, since they don't
+all stop if one lazy midget wants a drink.
 
 .. image:: images/08-schedule.png
    :align: center
 
 One thing you might want to think about is providing food and drink and
-somewhere to eat close to your military dwarves. That way they will
-hopefully spend more time training and less time walking!
+somewhere to eat close to your military dwarves. That way, they will
+(hopefully) spend more time training and less time walking!
 
 .. image:: images/08-squad.png
    :align: center
@@ -142,7 +134,7 @@ again. Hopefully that will remove them back up the chain of command.
 Or, hit enter on the boss and then enter on the dwarves 2 steps down,
 that will pull them back up to being directly under the boss's command.
 
-While the boys are sparring go to your leather workshop and make sure
+While the boys are sparring, go to your leather workshop and make sure
 you've got some backpacks, armor and helms on order. You can check your
 stocks too, to make sure there's enough kit to go around. In time we'll
 get our lads into steel chainmail and plate, but for now, we need to
